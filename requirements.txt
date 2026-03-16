@@ -1,0 +1,6 @@
+# Install with: pip install -r requirements.txt
+
+PySide6>=6.5.0
+
+# Optional: enable FernetCipher strong encryption
+# cryptography>=41.0.0
